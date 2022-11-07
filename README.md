@@ -22,8 +22,8 @@
 ![Html](https://img.shields.io/badge/HTML-F8F8FF?style=flat&logo=html5&logoColor=black)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeiburya&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeiburya&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeiburya&theme=solarized_dark) 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergeiburya)](https://git.io/streak-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiburya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiburya&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
