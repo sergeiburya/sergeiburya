@@ -1,7 +1,3 @@
-<!--![alt][image1]-->
-
-<!--[image1]: img/banner.jpg (Australian Shepherd) -->
-
 ![Profile views](https://gpvc.arturio.dev/sergeiburya)
 
 ### Hi, my name is Serhii. Java developer with a year of experience in Java, looking for new professional opportunities. I have experience working with Java Core, JDBC, and Frameworks (Spring, Hibernate). Well-acquainted with the basics of OOP. I qualify as a professional specialist, a debugger of machine tools with software control. I have experience in IT department management, software product implementation, and project management.
