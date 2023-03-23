@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/sergeiburya)
 
-### Hi, my name is Serhii. Java developer with a year of experience in Java, looking for new professional opportunities. I have experience working with Java Core, JDBC, and Frameworks (Spring, Hibernate). Well-acquainted with the basics of OOP. I qualify as a professional specialist, a debugger of machine tools with software control. I have experience in IT department management, software product implementation, and project management.
+### Hi, my name is Serhii. Java developer with a year of experience in Java, looking for new professional opportunities. I have experience working with Java Core, JDBC, and Frameworks (Spring, Spring Boot, Hibernate). Well-acquainted with the basics of OOP. I qualify as a professional specialist, a debugger of machine tools with software control. In addition to my technical skills, I also have a proven track record of leadership and team management. As a former senior manager, I understand the importance of effective communication and collaboration. I am skilled at working with cross-functional teams to align technical solutions with business goals.
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=java&logo=java&logoColor=white)
