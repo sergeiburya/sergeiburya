@@ -17,7 +17,7 @@
 ![Spring](https://img.shields.io/badge/Spring-9ACD32?style=flat&logo=Spring&logoColor=F8F8FF)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-green.svg)](https://spring.io/projects/spring-security)
 [![Spring MVC](https://img.shields.io/badge/Spring%20MVC-green.svg)](https://spring.io/projects/spring-framework)
-[![Spring Boot Mail](https://img.shields.io/badge/Spring%20Boot%20Mailgreen.svg)](https://spring.io/projects/spring-boot)
+[![Spring Boot Mail](https://img.shields.io/badge/Spring%20Boot%20Mail-green.svg)](https://spring.io/projects/spring-boot)
 [![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-green.svg)](https://spring.io/projects/spring-data-jpa)
 [![Liquibase](https://img.shields.io/badge/Liquibase-blue.svg)](https://www.liquibase.org/)
 ![JWT](https://img.shields.io/badge/JWT-black?style=badge&logo=JSON%20web%20tokens)
