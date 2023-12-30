@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/sergeiburya)
+
 
 #### Java developer with a year of experience in Java, looking for new professional opportunities. I have experience working with Java Core, JDBC, and Frameworks (Spring, Spring Boot, and Hibernate). Well-acquainted with the basics of OOP. While working on a product team of PM, Frontend developer, UI/UX designer, and QA engineer, I gained an understanding of workflow, the ability to estimate, organize and prioritize my tasks, and excellent teamwork skills. I qualify as a professional specialist, a debugger of machine tools with software control. In addition to my technical skills, I also have a proven track record of leadership and team management. As a former senior manager, I understand the importance of effective communication and collaboration. I am skilled at working with cross-functional teams to align technical solutions with business goals.
 
