@@ -5,43 +5,10 @@ I bring that systems thinking and ownership mindset to every backend I build.
 ## Tech Stack
 
 **Languages**
-
-
-
-
 **Backend & Frameworks**
-
-
-
-
-
-
-
 **Databases & Messaging**
-
-
-
-
-
-
 **DevOps & Cloud**
-
-
-
-
-
-
-
-
 **Build, Testing & Tools**
-
-
-
-
-
-
-
-
 
 ## GitHub Activity
 
