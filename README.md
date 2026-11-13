@@ -25,3 +25,4 @@ I bring that systems thinking and ownership mindset to every backend I build.
   &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeiburya&amp;theme=solarized_dark&quot; alt=&quot;Stats&quot; /&gt;
   &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeiburya&amp;theme=solarized_dark&amp;utcOffset=2&quot; alt=&quot;Productive Time&quot; /&gt;
 &lt;/div&gt;
+
