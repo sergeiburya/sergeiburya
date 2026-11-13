@@ -1,6 +1,8 @@
 
 
-#### Java developer with two years of experience in Java, looking for new professional opportunities. I have experience working with Java Core, JDBC, and Frameworks (Spring, Spring Boot, and Hibernate). Well-acquainted with the basics of OOP. While working on a product team of PM, Frontend developer, UI/UX designer, and QA engineer, I gained an understanding of workflow, the ability to estimate, organize, and prioritize my tasks, and excellent teamwork skills. I qualify as a professional specialist, a debugger of machine tools with software control. In addition to my technical skills, I also have a proven track record of leadership and team management. As a former senior manager, I understand the importance of effective communication and collaboration. I am skilled at working with cross-functional teams to align technical solutions with business goals.
+#### 3+ years building backend systems in Kotlin and Java — APIs, authentication, real-time features, and cloud-native deployment.
+Before writing my first line of code, I spent 12+ years leading production, quality, and logistics teams — doubling output at one facility and driving lean manufacturing initiatives.
+I bring that systems thinking and ownership mindset to every backend I build.
 
 
 ## Languages and Tools:
@@ -37,5 +39,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeiburya&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeiburya&theme=solarized_dark) 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergeiburya)](https://git.io/streak-stats)-->
+![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergeiburya)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiburya&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
